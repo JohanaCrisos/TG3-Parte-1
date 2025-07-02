@@ -4,5 +4,4 @@ Se realizaron 4 ejercicios
 2)Se usó un mapa de puntos y líneas, se calculó la matriz de distancia, se seleccionó una linea de la matriz y se trazó el punto más cercano y lejano a esa línea
 3)Se creó un HULL para un conjunti de mapas de líneas, se calculó la matriz de distancia entre el HULL y un mapa de puntos y se graficó el HULL y los puntos mostrando los puntos más cercanos y lejanos al HULL
 4)Se seleccionó un mapa de líneas y puntos, se obtuvo el buffer para las líneas y se seleccionó una distancia, finalmente, se conservó los puntos dentro del límite
-
 LINK:https://johanacrisos.github.io/TG3-Parte-1/
